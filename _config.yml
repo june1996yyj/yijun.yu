@@ -21,7 +21,7 @@ repository               : "june1996yyj/yijun.yu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "aboutprofile.png"
   name             : 
   pronouns         : # example: "she/her"  
   bio              : ""
