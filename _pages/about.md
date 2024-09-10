@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yijun Yu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Yijun Yu
+
 
 Graduate School of Economics, Kyoto University  
 Yoshida Homachi, Sakyo-Ku, Kyoto, Japan  
@@ -15,7 +15,7 @@ yu.yijun.46e@st.kyoto-u.ac.jp
 
 ## About Me
 
-I am a doctoral candidate in Economics at Kyoto University, with my PhD expected to be completed in July. My research focuses on the quantitative study of how education reform and ICT lead to women's empowerment in China and African countries (Kenya and Zimbabwe). Additionally, I have conducted qualitative research on falsified medicines and the gender division of work in China, employing a mixed-method approach.
+I am a doctoral candidate in Economics at Kyoto University, with my PhD degree completed in July. My research focuses on the quantitative study of how education reform and ICT lead to women's empowerment in China and African countries (Kenya and Zimbabwe). Additionally, I have conducted qualitative research in China and UK, employing a mixed-method approach.
 
 ## Research Interests
 
@@ -44,7 +44,7 @@ I am a doctoral candidate in Economics at Kyoto University, with my PhD expected
 
 ## Contact
 
-Feel free to reach out to me via email at [yu.yijun.46e@st.kyoto-u.ac.jp](mailto:yu.yijun.46e@st.kyoto-u.ac.jp) or connect with me on [LinkedIn](https://www.linkedin.com/in/yijunyu).
+Feel free to reach out to me via email at [yijun.yu.6@outlook.com](mailto:yijun.yu.6@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yijunyu).
 
 ---
 
