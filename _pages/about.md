@@ -7,21 +7,53 @@ redirect_from:
   - /about.html
 ---
 
+## Education
+* 2024: Doctor of Philosophy in Economics, Kyoto University, Japan
+  * Thesis: The Impact of National Policies on Women and Children's Welfare: evidence from fertility policy relaxation in China and education reform in Kenya and Zimbabwe
+  * Supervisors: Dr. Hisaki Kono, Dr. Go Yano
 
-Graduate School of Economics, Kyoto University  
-Yoshida Homachi, Sakyo-Ku, Kyoto, Japan  
-+81-080-4083-1107  
-yu.yijun.46e@st.kyoto-u.ac.jp  
+* 2020: Master of Science in Economics, Kyoto University, Japan
 
-## About Me
+* 2018: Bachelor of Science in Economics, Chinese University of Hong Kong
 
-I am a doctoral candidate in Economics at Kyoto University, with my PhD degree completed in July. My research focuses on the quantitative study of how education reform and ICT lead to women's empowerment in China and African countries (Kenya and Zimbabwe). Additionally, I have conducted qualitative research in China and UK, employing a mixed-method approach.
+## Publications
+* **Maternal education and child survival: Causal evidence from Kenya**  
+  *Co-authors*: Nguyen-Phung, H., Nguyen, P. H., Le, H.  
+  *Published in*: Review of Economics of the Household  
+  *Link*: [https://doi.org/10.1007/s11150-024-09717-6](https://doi.org/10.1007/s11150-024-09717-6)
 
+### Working Papers
+* **Fertility Policy and Gender Discrimination in the Workplace: Evidence from the Two-Child Policy Reform in China**  
+  *Co-author*: Hisaki Kono  
+  *Discussion papers*: e-24-001, Graduate School of Economics, Kyoto University  
+  *Status*: Submitted to Economic Development and Cultural Change  
+  *Link*: [https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf](https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf), 2024  
+
+* **Women’s empowerment in Zimbabwe: Examining the role of educational reform**  
+  *Co-authors*: Hang Thu Nguyen-Phung, Hai Le  
+  *Status*: Under Review, Social Indicators Research  
+
+* **Maternal education and child development: Insights from nutritional status in Kenya**  
+  *Co-authors*: Hang Thu Nguyen-Phung, Phuc H Nguyen, Hai Le  
+  *Status*: R&R, Health Economics  
+
+* **Partial Nationalization and Firm Innovation: Empirical Evidence from China’s Mixed-ownership Reform**  
+  *Co-author*: Yufei Zhang  
+  *Status*: Under Review, China Economic Review  
+
+### Work in Progress
+* **Broadband Builds the Power: How the Information and Communication Technologies Advance Women’s Well-being in Rural China**
+
+* **The Impact of Suspicious Use of Mobile Money on Women’s Empowerment in China**
+
+* **Falsified Medicines and the Gender Division of Work in China: A Mixed Method Study**
+
+* **Can Judicial Independence Restrain Corporate Fraud? Empirical Evidence from Chinese A-share Listed Firms**
+  
 ## Research Interests
 
-- **Econometrics and Statistical Analysis**: Advanced coursework and practical experience in regression analysis and causal inference, utilizing tools such as Python, R, and Stata.
-- **Education Policy and Gender Equality**: In-depth research on the impact of educational reforms on women's empowerment and the intersection of gender and education.
-- **Survey Experiments and Data Collection**: Designing and administering surveys, both field and online, to collect and analyze data relevant to policy impacts.
+- Primary: Development Economics, Family Economics, Labor Economics
+- Secondary: Gender Economics, Political Economy, Behavioral Economics, Economics of Education, Economics of Crime
 
 ## Contact
 
