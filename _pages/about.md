@@ -26,21 +26,19 @@ I hold a doctoral degree in Economics in Kyoto University. My primary research I
 * **Fertility Policy and Gender Discrimination in the Workplace: Evidence from the Two-Child Policy Reform in China**  
   with Hisaki Kono  
   *Discussion papers*: e-24-001, Graduate School of Economics, Kyoto University, [https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf](https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf),
-  *Status*: Submitted to Economic Development and Cultural Change, 
-
+  Status: Submitted to *Economic Development and Cultural Change*,
+  
 * **Women’s empowerment in Zimbabwe: Examining the role of educational reform**  
   with Hang Thu Nguyen-Phung, Hai Le  
-  *Status*: R&R, Social Indicators Research  
+  Status: R&R
 
 * **Maternal education and child development: Insights from nutritional status in Kenya**  
   with Hang Thu Nguyen-Phung, Phuc H Nguyen, Hai Le  
-  *Status*: R&R, Health Economics  
+  Status: R&R, *Health Economics*
 
 * **Partial Nationalization and Firm Innovation: Empirical Evidence from China’s Mixed-ownership Reform**  
   with Yufei Zhang  
-  *Status*: Under Review, China Economic Review  
-
-  
+  Status: Under Review, *China Economic Review*
 
 ## Contact
 
