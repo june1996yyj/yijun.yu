@@ -21,19 +21,17 @@ I hold a doctoral degree in Economics in Kyoto University. My primary research I
 ## Publications
 * **Maternal education and child survival: Causal evidence from Kenya**  
   *Co-authors*: Nguyen-Phung, H., Nguyen, P. H., Le, H.  
-  *Published in*: Review of Economics of the Household  
-  *Link*: [https://doi.org/10.1007/s11150-024-09717-6](https://doi.org/10.1007/s11150-024-09717-6)
+  *Published in*: Review of Economics of the Household, [https://doi.org/10.1007/s11150-024-09717-6](https://doi.org/10.1007/s11150-024-09717-6)
 
 ### Working Papers
 * **Fertility Policy and Gender Discrimination in the Workplace: Evidence from the Two-Child Policy Reform in China**  
   *Co-author*: Hisaki Kono  
   *Discussion papers*: e-24-001, Graduate School of Economics, Kyoto University  
-  *Status*: Submitted to Economic Development and Cultural Change  
-  *Link*: [https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf](https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf), 2024  
+  *Status*: Submitted to Economic Development and Cultural Change, [https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf](https://www.econ.kyoto-u.ac.jp/dp/papers/e-24-001.pdf), 2024  
 
 * **Women’s empowerment in Zimbabwe: Examining the role of educational reform**  
   *Co-authors*: Hang Thu Nguyen-Phung, Hai Le  
-  *Status*: Under Review, Social Indicators Research  
+  *Status*: R&R, Social Indicators Research  
 
 * **Maternal education and child development: Insights from nutritional status in Kenya**  
   *Co-authors*: Hang Thu Nguyen-Phung, Phuc H Nguyen, Hai Le  
