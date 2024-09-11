@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
 ======
 * **Maternal education and child survival: Causal evidence from Kenya**  
   *Co-authors*: Nguyen-Phung, H., Nguyen, P. H., Le, H.  
