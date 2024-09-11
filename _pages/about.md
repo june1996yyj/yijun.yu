@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Biography:
+I hold a doctoral degree in Economics in Kyoto University. My primary research Interests are Development Economics, Health, Family Economics, and Labor Economics. I am also interested in Gender Economics, Political Economy, Behavioral Economics, Economics of Education, and Economics of Crime.
 
 ## Education
 * 2024: Doctor of Philosophy in Economics, Kyoto University, Japan
@@ -41,19 +43,7 @@ redirect_from:
   *Co-author*: Yufei Zhang  
   *Status*: Under Review, China Economic Review  
 
-### Work in Progress
-* **Broadband Builds the Power: How the Information and Communication Technologies Advance Women’s Well-being in Rural China**
-
-* **The Impact of Suspicious Use of Mobile Money on Women’s Empowerment in China**
-
-* **Falsified Medicines and the Gender Division of Work in China: A Mixed Method Study**
-
-* **Can Judicial Independence Restrain Corporate Fraud? Empirical Evidence from Chinese A-share Listed Firms**
   
-## Research Interests
-
-- Primary: Development Economics, Family Economics, Labor Economics
-- Secondary: Gender Economics, Political Economy, Behavioral Economics, Economics of Education, Economics of Crime
 
 ## Contact
 
